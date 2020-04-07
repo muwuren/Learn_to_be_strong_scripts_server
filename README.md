@@ -40,3 +40,12 @@
 ![image-20200330115915709](http://47.94.151.63/cloud_note/pictures_bed/image-20200330115915709.png)
 
 ![image-20200401153043781](http://47.94.151.63/cloud_note/pictures_bed/image-20200401153043781.png)
+
+## Demo
+[这里](http://47.94.151.63/)是我的一个Demo
+
+## Issues
+  解决多次登录，导致后台程序多次运行
+  	方案：
+		1. 使用cookie
+		2. 对Fuck学习强国运行使用文件锁
